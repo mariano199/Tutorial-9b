@@ -6,7 +6,8 @@
 #include <iostream>
 
 int main() {
-
-	system("Pause");
+	
+	std::cout << "Hola mundo" << std::endl;
+	std::system("Pause");
 	return 0;
 }
